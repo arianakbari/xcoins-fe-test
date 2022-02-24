@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xcoins-fe-test/static/css/main.15fed993.css",
+    "main.js": "/xcoins-fe-test/static/js/main.3ffd4bde.js",
+    "static/js/787.6a19dc21.chunk.js": "/xcoins-fe-test/static/js/787.6a19dc21.chunk.js",
+    "index.html": "/xcoins-fe-test/index.html",
+    "main.15fed993.css.map": "/xcoins-fe-test/static/css/main.15fed993.css.map",
+    "main.3ffd4bde.js.map": "/xcoins-fe-test/static/js/main.3ffd4bde.js.map",
+    "787.6a19dc21.chunk.js.map": "/xcoins-fe-test/static/js/787.6a19dc21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15fed993.css",
+    "static/js/main.3ffd4bde.js"
+  ]
+}
